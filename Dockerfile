@@ -1,4 +1,4 @@
 FROM docker:18.09.2
-LABEL maintainer="mritd <ningzhefeng04@baidu.com>"
+LABEL maintainer="mritd <nnn.test.com>"
 CMD ["/bin/bash"]
 
